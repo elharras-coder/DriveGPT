@@ -1,0 +1,20 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Node environment
+node_modules/
+npm-debug.log
+.env
+.env.local
+
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
